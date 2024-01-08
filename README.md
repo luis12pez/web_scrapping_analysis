@@ -1,9 +1,6 @@
-# web_scrapping_analysis
-
 # Portafolio: Web Scrapping | Data analysis
 
-
-## DATA ANALYSIS WORKFLOW
+## WORKFLOW
 
 1. 1
 2. 2
